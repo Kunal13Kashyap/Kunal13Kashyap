@@ -53,6 +53,14 @@
 
 ---
 
+
+## 🐍 Contribution Snake
+
+<!-- If set up via GitHub Action -->
+![snake gif](https://github.com/Kunal13Kashyap/Kunal13Kashyap/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📦 Upcoming Projects
 
 - 🔒 **FocusPro** — YT productivity Chrome extension (shipping soon!)
