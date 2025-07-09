@@ -56,7 +56,6 @@
 - 📦 Ship **FocusPro** (YT distraction blocker)
 - 🛠️ Build a **JobTrackr** app to manage job applications
 - 🧪 Make a **DSA Visualizer**
-- 🎯 Keep preparing for tech/non-tech placements with consistency
 
 ---
 
