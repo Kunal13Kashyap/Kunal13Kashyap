@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://github.com/Kunal13Kashyap/GTA6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal13Kashyap&repo=GTA6&theme=radical&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal13Kashyap&repo=GTA6&theme=radical&border_radius=10&cache_seconds=1" />
   </a>
 </p>
 
