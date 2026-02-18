@@ -61,7 +61,7 @@
 - Problem solving & debugging
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,postman,git,github,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,nodejs,express,mongodb,postman,git,github,npm,vite,cpp,c" />
 </p>
 
 ---
